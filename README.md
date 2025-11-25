@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suphiucar
-- 👀 I’m interested in AI, Machine Learning, Deep Learning, Data Science
+- 👀 I’m interested in AI, Machine Learning, Deep Learning, Data Science, Digital Image Processing and Computer Vision.
 - 📫 How to reach: suphiucar@gmail.com
 
 <!---
